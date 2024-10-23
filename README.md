@@ -51,9 +51,6 @@
   <a href="https://www.linkedin.com/in/claudiocarvalho455/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="49" alt="linkedin logo"  />
   </a>
-  <a href="claudiin455" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="49" alt="discord logo"  />
-  </a>
 </div>
 
 ###
