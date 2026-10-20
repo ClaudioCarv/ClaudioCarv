@@ -98,16 +98,12 @@ Programo desde os 18 anos e já passei por APIs com Django, dashboards no Metaba
 ## `📈 GitHub em números`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ClaudioCarv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ClaudioCarv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioCarv&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ClaudioCarv&background=0D1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&hide_border=true" alt="Sequência de contribuições" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudioCarv&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true" alt="Gráfico de atividade" />
 </div>
 
 <br/>
