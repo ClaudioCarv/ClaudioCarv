@@ -91,7 +91,7 @@ Dois artefatos para você conhecer o meu trabalho. Clique em um card para abrir 
 | [Análise de Dados: dataset de vendas](https://github.com/ClaudioCarv/Analise-de-Dados-Dataset-Dados_Vendas.csv) | Python |
 | [Conversor de PDF para Markdown](https://github.com/ClaudioCarv/Conversor-PDF-to-MD) | Python |
 | [Amizades com Neo4j](https://github.com/ClaudioCarv/amizades_neo4j) | Python |
-| [Portfólio (este site)](https://github.com/ClaudioCarv/Portfolio) | CSS |
+| [Portfólio](https://github.com/ClaudioCarv/Portfolio) | CSS |
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="70%" />
