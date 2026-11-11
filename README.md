@@ -27,7 +27,15 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-Programo desde os 18 anos. Já forjei APIs com Django, dashboards no Metabase e automações com IA no n8n. Hoje a minha jornada é transformar dados em decisões, e aprendo na prática, uma missão de cada vez.
+> *"Na prática é que se aprende."*
+
+**📍 Origem.** Tudo começou na infância, vendo meus familiares usarem e jogarem no computador e me perguntando como aquilo tudo funcionava. Aos 15 anos, na escola, conheci a programação com C++ e entendi que dava para criar as minhas próprias soluções. Desde então não parei.
+
+**🏰 Treinamento.** Passei por duas guildas: a **Unipê**, onde concluí Análise e Desenvolvimento de Sistemas, e a **UEPB**, onde me formei em Ciência de Dados. No caminho, treinei na Fábrica de Software com Python, Django e Django REST Framework, e orientei os membros mais novos da equipe.
+
+**⚔️ Aventuras.** No estágio da **UMTI**, construí dashboards no Metabase com indicadores de produtos e de faturamento, incluindo a comparação de preços entre estabelecimentos de João Pessoa. Na **SIAGOV**, criei fluxos de automação no n8n com IA para transformar documentos em Markdown e TXT e prepará-los para vetorização. E criei um sistema de recomendação de filmes com TF-IDF, similaridade de cosseno e Streamlit.
+
+**🧭 Próxima missão.** Hoje treino SQL, estatística e Machine Learning enquanto construo três projetos de portfólio: BI, ML e deploy. Busco a minha primeira vaga como Analista de Dados, BI ou Cientista de Dados Júnior, e quem me der essa chance vai encontrar alguém que aprende na prática e gosta de entregar.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Procurando-Analista%20de%20Dados%20%2F%20BI%20%2F%20Cientista%20Jr.-C9A227?style=for-the-badge&labelColor=0f1216" alt="Procurando vaga em dados" />
@@ -39,34 +47,28 @@ Programo desde os 18 anos. Já forjei APIs com Django, dashboards no Metabase e 
 
 ## 🌳 Árvore de habilidades
 
-**🔮 Magia dos Dados**
+<div align="center">
+  <img src="assets/skills.svg" alt="Árvore de habilidades: Magia dos Dados, Grimório de BI, Forja de Sistemas e habilidades em treinamento" width="100%" />
+</div>
 
-<img src="https://img.shields.io/badge/Python-0f1216?style=flat-square&logo=python&logoColor=C9A227" alt="Python" />
-<img src="https://img.shields.io/badge/pandas-0f1216?style=flat-square&logo=pandas&logoColor=C9A227" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-0f1216?style=flat-square&logo=numpy&logoColor=C9A227" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-0f1216?style=flat-square&logo=plotly&logoColor=C9A227" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/scikit--learn-0f1216?style=flat-square&logo=scikitlearn&logoColor=C9A227" alt="scikit-learn" />
+### 📚 Grimório: onde cada habilidade foi forjada
 
-**📊 Grimório de BI**
+| Habilidade | Ramo | Onde foi forjada |
+|---|---|---|
+| 🐍 **Python** | Magia dos Dados | Fábrica de Software e projeto de recomendação de filmes |
+| 🐼 **pandas** | Magia dos Dados | Projeto de recomendação de filmes |
+| 🔢 **NumPy e Matplotlib** | Magia dos Dados | Estudos de análise de dados, em prática |
+| 🤖 **scikit-learn** | Magia dos Dados | Estudos de Machine Learning |
+| 📊 **Metabase** | Grimório de BI | Estágio na UMTI e certificado da Udemy |
+| 📈 **Power BI** | Grimório de BI | Projeto Olist (em andamento) |
+| 📑 **Excel** | Grimório de BI | Nível intermediário |
+| 🔗 **Django REST** | Forja de Sistemas | Treinamento na Fábrica de Software |
+| ⚙️ **n8n** | Forja de Sistemas | Estágio na SIAGOV, com automação e IA |
+| 🖥️ **Streamlit** | Forja de Sistemas | Projeto de recomendação de filmes |
+| 🌿 **Git e GitHub** | Forja de Sistemas | Todos os projetos ficam versionados |
+| 🎨 **HTML, CSS e JavaScript** | Forja de Sistemas | Projeto Tia Fatia |
 
-<img src="https://img.shields.io/badge/Metabase-0f1216?style=flat-square&logo=metabase&logoColor=7FB7D6" alt="Metabase" />
-<img src="https://img.shields.io/badge/Power%20BI-0f1216?style=flat-square&logo=powerbi&logoColor=7FB7D6" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-0f1216?style=flat-square&logo=microsoftexcel&logoColor=7FB7D6" alt="Excel" />
-
-**🔨 Forja de Sistemas**
-
-<img src="https://img.shields.io/badge/Django%20REST-0f1216?style=flat-square&logo=django&logoColor=E8DFC8" alt="Django REST" />
-<img src="https://img.shields.io/badge/n8n-0f1216?style=flat-square&logo=n8n&logoColor=E8DFC8" alt="n8n" />
-<img src="https://img.shields.io/badge/Streamlit-0f1216?style=flat-square&logo=streamlit&logoColor=E8DFC8" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Git-0f1216?style=flat-square&logo=git&logoColor=E8DFC8" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0f1216?style=flat-square&logo=github&logoColor=E8DFC8" alt="GitHub" />
-<img src="https://img.shields.io/badge/HTML5-0f1216?style=flat-square&logo=html5&logoColor=E8DFC8" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0f1216?style=flat-square&logo=css3&logoColor=E8DFC8" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0f1216?style=flat-square&logo=javascript&logoColor=E8DFC8" alt="JavaScript" />
-
-**📖 Em treinamento (aprendendo agora)**
-
-`SQL avançado` · `Estatística aplicada` · `Machine Learning aprofundado` · `Docker` · `FastAPI`
+**🔥 Em treinamento (as brasas da árvore):** `SQL avançado` · `Estatística aplicada` · `Machine Learning aprofundado` · `Docker` · `FastAPI`. São as missões de 2026 e 2027, e cada uma ganha um projeto como prova.
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="70%" />
