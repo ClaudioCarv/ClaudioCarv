@@ -74,6 +74,29 @@
   <img src="assets/divider.svg" alt="" width="70%" />
 </div>
 
+## 👑 Projetos em destaque
+
+Dois artefatos para você conhecer o meu trabalho. Clique em um card para abrir o repositório.
+
+<div align="center">
+  <a href="https://github.com/ClaudioCarv/CineMatch_Recommendations"><img src="assets/proj-cinematch.svg" alt="CineMatch: sistema de recomendação de filmes com TF-IDF e Streamlit" width="49%" /></a>
+  <a href="https://github.com/ClaudioCarv/Tia_Fatia"><img src="assets/proj-tia-fatia.svg" alt="Tia Fatia: site de pizzaria com carrinho e acompanhamento de pedido" width="49%" /></a>
+</div>
+
+### 🎒 Outros artefatos do inventário
+
+| Repositório | Linguagem |
+|---|---|
+| [Previsões de Energias Renováveis](https://github.com/ClaudioCarv/Previsoes-Energias-Renovaveis) | Python |
+| [Análise de Dados: dataset de vendas](https://github.com/ClaudioCarv/Analise-de-Dados-Dataset-Dados_Vendas.csv) | Python |
+| [Conversor de PDF para Markdown](https://github.com/ClaudioCarv/Conversor-PDF-to-MD) | Python |
+| [Amizades com Neo4j](https://github.com/ClaudioCarv/amizades_neo4j) | Python |
+| [Portfólio (este site)](https://github.com/ClaudioCarv/Portfolio) | CSS |
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="70%" />
+</div>
+
 ## 🗺️ Diário de missões
 
 **Missão principal:** conquistar a primeira vaga na área de dados.
@@ -86,8 +109,8 @@
 
 **Missões concluídas**
 
-- ✅ **Recomendação de Filmes:** sistema com TF-IDF e similaridade de cosseno, com interface em Streamlit ([ver repositório](https://github.com/ClaudioCarv?tab=repositories)) <!-- TROQUE pelo link do repositório -->
-- ✅ **Tia Fatia:** site de pizzaria criado em equipe no curso de desenvolvimento web ([ver repositório](https://github.com/ClaudioCarv/tia_fatia))
+- ✅ **CineMatch:** sistema de recomendação de filmes com TF-IDF, similaridade de cosseno e interface em Streamlit ([ver repositório](https://github.com/ClaudioCarv/CineMatch_Recommendations))
+- ✅ **Tia Fatia:** site de pizzaria criado em equipe no curso de desenvolvimento web ([ver repositório](https://github.com/ClaudioCarv/Tia_Fatia))
 - ✅ **Estágio na SIAGOV (2026):** fluxos de automação no n8n com IA para preparar documentos para vetorização
 - ✅ **Estágio na UMTI (2026):** dashboards no Metabase com indicadores de produtos e faturamento
 - ✅ **Treinamento na Fábrica de Software (2023):** Python, Django e Django REST Framework
@@ -100,8 +123,7 @@
 ## 🏆 Atributos do herói
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ClaudioCarv&show_icons=true&hide_border=false&border_color=3a3a3a&bg_color=0f1216&title_color=C9A227&icon_color=7FB7D6&text_color=E8DFC8&custom_title=Atributos%20do%20Her%C3%B3i&locale=pt-br" alt="Atributos do herói (estatísticas do GitHub)" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioCarv&layout=compact&hide_border=false&border_color=3a3a3a&bg_color=0f1216&title_color=C9A227&text_color=E8DFC8&langs_count=6&custom_title=Armas%20mais%20usadas&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="assets/stats.svg" alt="Atributos do herói: repositórios, seguidores e linguagens mais usadas" width="100%" />
 </div>
 
 <div align="center">
