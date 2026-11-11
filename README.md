@@ -11,7 +11,7 @@
   <img src="assets/divider.svg" alt="" width="70%" />
 </div>
 
-## 📜 Ficha de herói
+## Ficha de herói
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -29,13 +29,13 @@
 
 > *"Na prática é que se aprende."*
 
-**📍 Origem.** Tudo começou na infância, vendo meus familiares usarem e jogarem no computador e me perguntando como aquilo tudo funcionava. Aos 15 anos, na escola, conheci a programação com C++ e entendi que dava para criar as minhas próprias soluções. Desde então não parei.
+**Origem.** Tudo começou na infância, vendo meus familiares usarem e jogarem no computador e me perguntando como aquilo tudo funcionava. Aos 15 anos, na escola, conheci a programação com C++ e entendi que dava para criar as minhas próprias soluções. Desde então não parei.
 
-**🏰 Treinamento.** Passei por duas guildas: a **Unipê**, onde concluí Análise e Desenvolvimento de Sistemas, e a **UEPB**, onde me formei em Ciência de Dados. No caminho, treinei na Fábrica de Software com Python, Django e Django REST Framework, e orientei os membros mais novos da equipe.
+**Treinamento.** Passei por duas guildas: a **Unipê**, onde concluí Análise e Desenvolvimento de Sistemas, e a **UEPB**, onde me formei em Ciência de Dados. No caminho, treinei na Fábrica de Software com Python, Django e Django REST Framework, e orientei os membros mais novos da equipe.
 
-**⚔️ Aventuras.** No estágio da **UMTI**, construí dashboards no Metabase com indicadores de produtos e de faturamento, incluindo a comparação de preços entre estabelecimentos de João Pessoa. Na **SIAGOV**, criei fluxos de automação no n8n com IA para transformar documentos em Markdown e TXT e prepará-los para vetorização. E criei um sistema de recomendação de filmes com TF-IDF, similaridade de cosseno e Streamlit.
+**Aventuras.** No estágio da **UMTI**, construí dashboards no Metabase com indicadores de produtos e de faturamento, incluindo a comparação de preços entre estabelecimentos de João Pessoa. Na **SIAGOV**, criei fluxos de automação no n8n com IA para transformar documentos em Markdown e TXT e prepará-los para vetorização. E criei um sistema de recomendação de filmes com TF-IDF, similaridade de cosseno e Streamlit.
 
-**🧭 Próxima missão.** Hoje treino SQL, estatística e Machine Learning enquanto construo três projetos de portfólio: BI, ML e deploy. Busco a minha primeira vaga como Analista de Dados, BI ou Cientista de Dados Júnior, e quem me der essa chance vai encontrar alguém que aprende na prática e gosta de entregar.
+**Próxima missão.** Hoje treino SQL, estatística e Machine Learning enquanto construo três projetos de portfólio: BI, ML e deploy. Busco a minha primeira vaga como Analista de Dados, BI ou Cientista de Dados Júnior, e quem me der essa chance vai encontrar alguém que aprende na prática e gosta de entregar.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Procurando-Analista%20de%20Dados%20%2F%20BI%20%2F%20Cientista%20Jr.-C9A227?style=for-the-badge&labelColor=0f1216" alt="Procurando vaga em dados" />
@@ -45,13 +45,13 @@
   <img src="assets/divider.svg" alt="" width="70%" />
 </div>
 
-## 🌳 Árvore de habilidades
+## Árvore de habilidades
 
 <div align="center">
   <img src="assets/skills.svg" alt="Árvore de habilidades: Magia dos Dados, Grimório de BI, Forja de Sistemas e habilidades em treinamento" width="100%" />
 </div>
 
-### 📚 Grimório: onde cada habilidade foi forjada
+### Grimório: onde cada habilidade foi forjada
 
 | Habilidade | Ramo | Onde foi forjada |
 |---|---|---|
@@ -68,13 +68,13 @@
 | 🌿 **Git e GitHub** | Forja de Sistemas | Todos os projetos ficam versionados |
 | 🎨 **HTML, CSS e JavaScript** | Forja de Sistemas | Projeto Tia Fatia |
 
-**🔥 Em treinamento (as brasas da árvore):** `SQL avançado` · `Estatística aplicada` · `Machine Learning aprofundado` · `Docker` · `FastAPI`. São as missões de 2026 e 2027, e cada uma ganha um projeto como prova.
+**Em treinamento (as brasas da árvore):** `SQL avançado` · `Estatística aplicada` · `Machine Learning aprofundado` · `Docker` · `FastAPI`. São as missões de 2026 e 2027, e cada uma ganha um projeto como prova.
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="70%" />
 </div>
 
-## 👑 Projetos em destaque
+## Projetos em destaque
 
 Dois artefatos para você conhecer o meu trabalho. Clique em um card para abrir o repositório.
 
@@ -83,7 +83,7 @@ Dois artefatos para você conhecer o meu trabalho. Clique em um card para abrir 
   <a href="https://github.com/ClaudioCarv/Tia_Fatia"><img src="assets/proj-tia-fatia.svg" alt="Tia Fatia: site de pizzaria com carrinho e acompanhamento de pedido" width="49%" /></a>
 </div>
 
-### 🎒 Outros artefatos do inventário
+### Outros artefatos do inventário
 
 | Repositório | Linguagem |
 |---|---|
